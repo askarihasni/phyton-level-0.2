@@ -1,0 +1,27 @@
+# OS files
+Thumbs.db
+.DS_Store
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# Environment
+.env
+.env.local
+
+# Local dev artifacts
+*.local
+
+# Screenshots/temporary
+screenshots/
+.coverage/
+.ui-check.*
+
+# Windows temp files
+~*
+*.swp
+*.swo
